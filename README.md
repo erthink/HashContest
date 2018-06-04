@@ -13,6 +13,7 @@ The source code will be updated when the first semi stable or beta version got r
 But you are welcome to fill a feature request or append the wishlist.
 
 Current TODO list, briefly:
+
  1. Separate hash functions source code and the test suite itself;
  2. Add runtime detection of the CPU features;
  3. Redesign hash-function registration API;
@@ -24,4 +25,5 @@ Current TODO list, briefly:
  9. Provide porcelain and json output;
  10. Refine code to speed up testing;
  11. Add birthday-alike test;
- 12. etc...
+ 12. Integration with https://bench.cr.yp.to/supercop.html;
+ 13. etc...
