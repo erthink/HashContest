@@ -1,3 +1,5 @@
+<!-- Required extensions: pymdownx.betterem, pymdownx.tilde, pymdownx.emoji, pymdownx.tasklist, pymdownx.superfences -->
+
 # HashContest
 
 HashContest is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions.
@@ -27,3 +29,7 @@ Current TODO list, briefly:
  11. Add birthday-alike test;
  12. Integration with https://bench.cr.yp.to/supercop.html;
  13. etc...
+
+--------------------------------------------------------------------------------
+
+#### This is the mirror of origin repository that was moved to [abf.io](https://abf.io/erthink/) because of discriminatory restrictions for the Russian Crimea.
